@@ -417,7 +417,7 @@ class WC_Jamef extends WC_Shipping_Method {
 			'P_CEP' => $this->fix_zip_code( $zip_destination ),
 			'P_COD_REGN' => $unit_origin,
 			'P_PESO_KG' => $this->fix_simplexml_format( $weight ),
-			'VLR_CARG' => $declared,
+			'P_VLR_CARG' => $declared,
 			'P_UF'     => $state_origin,
 			'P_CUBG' => $cubage
 		), '', '&' );
