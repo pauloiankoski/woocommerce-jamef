@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Jamef v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-01-15 00:28:03+0000\n"
+"Last-Translator: Claudio Sanches <contato@claudiosmweb.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Description'
+#: wc-jamef.php:0
+#@ wcjamef
+msgid "Jamef para WooCommerce"
+msgstr "Jamef para WooCommerce"
+
+#: includes/class-wc-jamef.php:14
+#: includes/class-wc-jamef.php:94
+#@ wcjamef
+msgid "Jamef"
+msgstr "Jamef"
+
+#: includes/class-wc-jamef.php:90
+#@ wcjamef
+msgid "Title"
+msgstr "Título"
+
+#: includes/class-wc-jamef.php:92
+#@ wcjamef
+msgid "This controls the title which the user sees during checkout."
+msgstr "Isto controla o título que o usuário vê durante o checkout."
+
+#: includes/class-wc-jamef.php:102
+#@ wcjamef
+msgid "All allowed countries"
+msgstr "Países permitidos"
+
+#: includes/class-wc-jamef.php:103
+#: includes/class-wc-jamef.php:107
+#@ wcjamef
+msgid "Specific Countries"
+msgstr "Países específicos"
+
+#: includes/class-wc-jamef.php:170
+#@ wcjamef
+msgid "Package Standard"
+msgstr "Pacote Padrão"
+
+#: includes/class-wc-jamef.php:176
+#@ wcjamef
+msgid "Minimum Height"
+msgstr "Altura Mínima"
+
+#: includes/class-wc-jamef.php:183
+#@ wcjamef
+msgid "Minimum Width"
+msgstr "Largura Mínima"
+
+#: includes/class-wc-jamef.php:190
+#@ wcjamef
+msgid "Minimum Length"
+msgstr "Comprimento Mínimo"
+
+#: includes/class-wc-jamef.php:220
+#@ wcjamef
+msgid "Jamef is a brazilian delivery method."
+msgstr "Jamef é um método de entrega brasileiro."
+
+#: includes/class-wc-jamef.php:372
+#, php-format
+#@ wcjamef
+msgid "Delivery in %d working day"
+msgid_plural "Delivery in %d working days"
+msgstr[0] "Entrega em %d dia útil"
+msgstr[1] "Entrega em %d dias úteis"
+
+#. translators: plugin header field 'Name'
+#: wc-jamef.php:0
+#@ wcjamef
+msgid "WooCommerce Jamef"
+msgstr "WooCommerce Jamef"
+
+#: includes/class-wc-jamef.php:197
+#@ wcjamef
+msgid "Testing"
+msgstr "Teste"
+
+#: includes/class-wc-jamef.php:201
+#@ wcjamef
+msgid "Debug Log"
+msgstr "Log de depuração"
+
+#: includes/class-wc-jamef.php:203
+#@ wcjamef
+msgid "Enable logging"
+msgstr "Habilitar log"
+
+#: includes/class-wc-jamef.php:172
+#@ wcjamef
+msgid "Sets a minimum measure for the package."
+msgstr "Defina uma medida mínima para o pacote."
+
+#: includes/class-wc-jamef.php:178
+#@ wcjamef
+msgid "Minimum height of the package. Jamef needs at least 2 cm."
+msgstr "A altura mínima da embalagem. Os Jamef precisam de pelo menos 2 cm."
+
+#: includes/class-wc-jamef.php:185
+#@ wcjamef
+msgid "Minimum width of the package. Jamef needs at least 11 cm."
+msgstr "A largura mínima do pacote. Os Jamef precisam de pelo menos 11 cm."
+
+#: includes/class-wc-jamef.php:192
+#@ wcjamef
+msgid "Minimum length of the package. Jamef needs at least 16 cm."
+msgstr "Comprimento mínimo do pacote. Os Jamef precisam de pelo menos 16 cm."
+
+#: includes/class-wc-jamef-tracking.php:49
+#@ wcjamef
+msgid "Tracking code:"
+msgstr "Código de rastreamento:"
+
+#: includes/class-wc-jamef-tracking.php:94
+#, php-format
+#@ wcjamef
+msgid "Added a Jamef tracking code: %s"
+msgstr "Adicionado o código de rastreamento dos Jamef: %s"
+
+#: includes/class-wc-jamef-tracking.php:121
+#, php-format
+#@ wcjamef
+msgid "Your the Jamef tracking code of the order #%s"
+msgstr "O seu código de rastreamento dos Jamef da compra #%s"
+
+#: includes/class-wc-jamef-tracking.php:129
+#, php-format
+#@ wcjamef
+msgid "Track the delivery of your purchase at the Jamef: %s"
+msgstr "Acompanhe a entrega do seu pedido pelos Jamef: %s"
+
+#: includes/class-wc-jamef-tracking.php:132
+#@ wcjamef
+msgid "Your the Jamef tracking code"
+msgstr "Código de rastreamento dos Jamef"
+
+#: includes/class-wc-jamef-tracking.php:150
+#, php-format
+#@ wcjamef
+msgid "Your the Jamef tracking code: %s."
+msgstr "O seu código de rastreamento dos Jamef: %s."
+
+#: includes/class-wc-jamef.php:84
+#@ wcjamef
+msgid "Enable/Disable"
+msgstr "Habilita/Desabilita"
+
+#: includes/class-wc-jamef.php:86
+#@ wcjamef
+msgid "Enable this shipping method"
+msgstr "Ativar este método de envio"
+
+#: includes/class-wc-jamef.php:97
+#@ wcjamef
+msgid "Availability"
+msgstr "Disponibilidade"
+
+#: includes/class-wc-jamef.php:163
+#@ wcjamef
+msgid "Handling Fee"
+msgstr "Taxa de manuseio"
+
+#: includes/class-wc-jamef.php:205
+#, php-format
+#@ wcjamef
+msgid "Log Jamef events, such as WebServices requests, inside %s."
+msgstr "Registrar log de eventos dos Jamef, como solicitações de API, dentro do arquivo %s."
+
+#: wc-jamef.php:21
+#, php-format
+#@ wcjamef
+msgid "WooCommerce Jamef depends on %s to work!"
+msgstr "WooCommerce Jamef depende do %s para funcionar!"
+
+#: wc-jamef.php:28
+#, php-format
+#@ wcjamef
+msgid "WooCommerce Jamef depends to %s to work!"
+msgstr "WooCommerce Jamef depende de %s para funcionar!"
+
+#: includes/class-wc-jamef.php:165
+#@ wcjamef
+msgid "Enter an amount, e.g. 2.50, or a percentage, e.g. 5%. Leave blank to disable."
+msgstr "Digite um valor, por exemplo: 2.50, ou uma porcentagem, por exemplo, 5%. Deixe em branco para desabilitar."
+
+#. translators: plugin header field 'PluginURI'
+#: wc-jamef.php:0
+#@ wcjamef
+msgid "https://github.com/pauloiankoski/woocommerce-jamef"
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: wc-jamef.php:0
+#@ wcjamef
+msgid "pauloiankoski"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: wc-jamef.php:0
+#@ wcjamef
+msgid "http://paulor.com.br/"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: wc-jamef.php:0
+#@ wcjamef
+msgid "1.0"
+msgstr ""
+
+#: includes/class-wc-jamef.php:114
+#@ wcjamef
+msgid "Origin unit"
+msgstr "Unidade de Origem"
+
+#: includes/class-wc-jamef.php:116
+#@ wcjamef
+msgid "Jamef unit from where the requests are sent."
+msgstr "Unidade Jamef de onde seus pedidos serão enviados."
+
+#: includes/class-wc-jamef.php:131
+#@ wcjamef
+msgid "Origin state"
+msgstr "Estado de origem"
+
