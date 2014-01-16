@@ -26,17 +26,17 @@ Adicione os Jamef como método de entrega em sua loja WooCommerce.
 
 O plugin WooCommerce Jamef foi desenvolvido sem nenhum incentivo da Jamef. Nenhum dos desenvolvedores deste plugin possuem vínculos com esta empresa.
 
-Este plugin foi feito baseado no plugin [WooCommerce Correios](http://plugins.wordpress.org/extend/plugins/woocommerce-correios/) do [Cláudio Sanches](http://profiles.wordpress.org/claudiosanches/).
+Este plugin foi feito baseado no plugin [WooCommerce Correios](http://wordpress.org/plugins/woocommerce-correios/) do [Claudio Sanches](http://profiles.wordpress.org/claudiosanches/).
 
 = Instalação: =
 
-Confira o nosso guia de instalação e configuração da Jamef na aba [Installation](http://wordpress.org/extend/plugins/woocommerce-jamef/installation/).
+Confira o nosso guia de instalação e configuração da Jamef na aba [Installation](http://wordpress.org/plugins/woocommerce-jamef/installation/).
 
 = Dúvidas? =
 
 Você pode esclarecer suas dúvidas usando:
 
-* A nossa sessão de [FAQ](http://wordpress.org/extend/plugins/woocommerce-jamef/faq/).
+* A nossa sessão de [FAQ](http://wordpress.org/plugins/woocommerce-jamef/faq/).
 * Criando um tópico no [fórum de ajuda do WordPress](http://wordpress.org/support/plugin/woocommerce-jamef) (apenas em inglês).
 * Ou entre em contato com os desenvolvedores do plugin em nossa [página](http://paulor.com.br/).
 
